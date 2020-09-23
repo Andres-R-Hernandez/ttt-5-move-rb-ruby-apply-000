@@ -14,7 +14,7 @@ index = "#{input}".to_i + 1
 end
 
 
-def move(board,index,character)
+def move(board,index,character = "x")
 
 
 
